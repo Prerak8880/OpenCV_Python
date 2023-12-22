@@ -5,5 +5,4 @@
 
 
 ## Specific Color Pixels Image
-![image](https://github.com/Prerak8880/OpenCV_Python-Basics/assets/96664052/4e9e2496-2ef2-465e-b1fb-57b7e2ec1aa1)
-
+![image](https://github.com/Prerak8880/OpenCV_Python-Basics/assets/96664052/cc4885c8-4702-40d0-8ff0-ef898d8f2167)
