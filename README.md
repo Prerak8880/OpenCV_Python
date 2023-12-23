@@ -1,4 +1,4 @@
-# OpenCV_Python-Basics
+# OpenCV_Python
 
 ## OpenCV - Open Source Computer Vision Library
 <br/>
